@@ -5,7 +5,7 @@ For exemple, to gate:
 - Desert 4 you only need tape on the chat d4
 - DeepForest 5 --> dp 5
 
-## 💫 All Gates
+## 💫 All Gates in Gaia
 ### 🏜 Desert
 
     d1 --> desert 1
@@ -50,6 +50,43 @@ For exemple, to gate:
 ### 🏰 Skycastle
 
     sky --> skycastle
+    
+### ❌ Cancel
+
+    cn --> cancel
+
+## 🕳 All Gates in Khei
+
+### 🏜 Desert
+
+    d1 --> desert 1
+    d2 --> desert 2
+    d3 --> desert 3
+    
+### 🧊 Tundra
+
+    t1 --> tundra 1
+    t2 --> tundra 2
+    t3 --> tundra 3
+    t4 --> tundra 4
+    
+### 🔥 Forge
+
+    f1 --> forge 1
+    f2 --> forge 2
+    f3 --> forge 3
+    f4 --> forge 4
+    
+### 🏞 Plains
+
+    p1 --> plains 1
+    p2 --> plains 2
+    p3 --> plains 3
+    
+### 🌴 Jungle
+
+    j1 --> jungle 1
+    j2 --> jungle 2
     
 ### ❌ Cancel
 
