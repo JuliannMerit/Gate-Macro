@@ -1,4 +1,4 @@
-# Gate-Macro
+# Gate Macro
 Micro programme for Gate **faster** in the game [**Rogue Lineage**](https://www.roblox.com/games/3016661674/Rogue-Lineage).
 
 For exemple, to gate:
