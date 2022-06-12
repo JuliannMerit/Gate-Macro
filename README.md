@@ -5,6 +5,8 @@ For exemple, to gate:
 - Desert 4 you only need tape on the chat d4
 - DeepForest 5 --> dp5
 
+*Looking for the download link?* [**Click here**](https://github.com/Jujua31/Gate-Macro/releases)
+
 ## 💫 All Gates in Gaia
 ### 🏜 Desert
 
