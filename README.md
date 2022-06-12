@@ -3,7 +3,7 @@ Micro programme to Gate **faster** in the game [**Rogue Lineage**](https://www.r
 
 For exemple, to gate:
 - Desert 4 you only need tape on the chat d4
-- DeepForest 5 --> dp 5
+- DeepForest 5 --> dp5
 
 ## 💫 All Gates in Gaia
 ### 🏜 Desert
