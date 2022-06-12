@@ -1,5 +1,5 @@
 # Gate Macro
-Micro programme for Gate **faster** in the game [**Rogue Lineage**](https://www.roblox.com/games/3016661674/Rogue-Lineage).
+Micro programme to Gate **faster** in the game [**Rogue Lineage**](https://www.roblox.com/games/3016661674/Rogue-Lineage).
 
 For exemple, to gate:
 - Desert 4 you only need tape on the chat d4
@@ -34,11 +34,11 @@ For exemple, to gate:
 
 ### 🌳 DeepForest
 
-    dp --> deepforest 1
-    dp --> deepforest 2
-    dp --> deepforest 3
-    dp --> deepforest 4
-    dp --> deepforest 5
+    dp1 --> deepforest 1
+    dp2 --> deepforest 2
+    dp3 --> deepforest 3
+    dp4 --> deepforest 4
+    dp5 --> deepforest 5
 
 ### 🌊 Emerald Shore
 
@@ -94,6 +94,6 @@ For exemple, to gate:
 
 ## To close it
 
-To close the programme you have to clic same as the picture just bellow 
+To close the programme you have to click same as the picture just below 
 
 ![image](https://user-images.githubusercontent.com/43277613/173204890-151b37cd-747b-49be-91b0-26c59e644b81.png)
